@@ -32,6 +32,10 @@ const gitLocations = [
   "/Users/inkeetc/workspace/javascript//scripts/all_commit_logs/",
 ];
 
+const extractGitLocations = function (workspaceLocation) {
+  return `find ${workspaceLocation} -name '.git'`;
+};
+
 const commandsToExecute = function (filter, fields, stdOut) {
   return gitLocations.map(function (location) {
     return `git -C ${location} log | ${filter} | ${fields} >> ${stdOut}`;
@@ -48,4 +52,8 @@ const timeStampCommands = commandsToExecute(
   "timestamps.txt"
 );
 
-displayCommands(timeStampCommands);
+const messageCommands = commandsToExecute(
+  "grep '    '",
+  "cut -d' ' -f5-500",
+  "messages.txt"
+);
