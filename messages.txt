@@ -1,0 +1,323 @@
+Update rover.js
+Update rover.js
+Update rover.js
+Update rover.js
+Update rover.js
+Initial commit
+Update zebra.js
+Update zebra.js
+Update zebra.js
+Update zebra.js
+Update zebra.js
+Initial commit
+found a better approach
+changed assignment to an array swap
+modularized second highest condition
+changed positions of highest and second highest
+handled case where second highest is after highest
+created multiple files
+removed unused function
+modified
+wrong output understood
+done with the logic
+half logic added, array is getting changed
+added testing framework
+Initial commit
+added test cases handling the edge case
+handled another edge case
+modularized functions
+fixed an edge case
+removed unused lines
+changed names
+changed approach to take 3 chunks at a time
+combined 10 to 1000
+added logic for all
+added logic upto hundred billion
+added logic for redundant functions
+removed unneded condition
+added logic till 10000
+removed unnecessary condition
+added logic for hundreds digits
+added testcase for 10
+removed a comment
+changed some names
+changed condition to add hundred also
+added name for ten's digit function
+added logic for numbers under 100
+added logic for numbers ending with teen
+modularized into a function
+added logic for one digits
+made it understandable
+added test cases for one digit numbers
+added testing framework
+Update README.md
+Initial commit
+renamed function name and changed to destructure format
+renamed liveInCitiesWithChar to filterByCityInitial
+used object in liveInCitiesWithChar and removed redundant ... operator
+commented refactored version of extractPeopleByHobby
+refactored getYoungestPet to a single function
+cleaned up function and refactored getHobbies of
+refactored getHobbiesOf by destructuring
+renamed individualsWithMoreThan2Hobbies to individualsWithMultipleHobby
+renamed pets of people with no car to countVaccinated pets of people with no car
+refactored extractPetNamesFrom to take any number of cities
+renamed get all pets to get pet details
+refactor extract people from and get pet names to pass objects as parameters
+formatted the file using prettier
+removed redundant map in favourite activity and used flatMap
+added favourite activity function
+added most common type of pet function
+added individuals common hobby function
+added do not own pets function
+added count live in cities starting with B
+added extract type of book function
+added get youngest age function
+added individuals with more than 2 hobbies function
+added pets of people with no car function
+added extract people with no car function
+added getPetNames and extractPetNamesFrom function
+added extract people from function
+added data and organize_data.js files
+changed for loop with for of
+changed for loops with for of
+combined two triangle functions
+changed loop for right Triangle
+changed for loop for triangle
+modified alternating rectangles
+modularized rectangle function
+modularized rectangle function
+combined fill and hollow rectangle
+organized my testing functions
+added a range function, modularized testAll function
+added function for combination
+handled two separate styles
+cleaned code, organized my starting function, found new logic for 0 or negative number
+organized my testing framework
+organized a little
+removed trailing spaces
+added logic for hollow diamond
+removed space
+added diamond function
+changed logic and removed some lines of code
+added logic for alternative spaced rectangle
+removed comment
+modularized into an function
+removed an if statement
+abstracted into constants
+added right angled triangle function
+changed logic and removed unnecessary line
+organized code
+added traingle function
+added large test case
+changed variable names
+changed variable name
+organized code
+changed constant names
+organized test functions
+added new test cases
+added alternating rectangle
+put into a global constant
+cleaned code
+cleaned the code
+added logic for hollow rectangle
+removed an variable
+added a test case
+changed into an array
+modularized into a constant
+changed into a switch case
+added logic for printing pattern
+Initial commit
+Initial commit
+removed lint issues
+made small changes
+fixed infinite loop
+added testing framework and logic:
+added logic
+added testing framework
+added logic and testcases
+added condition in test function
+added logic and testcases
+added testing framework
+added testcases and logic
+added logic and testcases
+added testing framework
+forgot to change function name
+added logic and testcases
+added testing framework
+added logic and testcases
+added testing framework
+forgot to add a comment
+added testcases and logic
+added new testcases
+modified testing framework and logic
+added testing framework
+added testcases and main logic
+added Testing framework
+Initial commit
+added logic and testing framework
+added testing framework
+added logic and testcases
+added testing framework
+added logic and testcases
+added testing framework
+added logic and test cases
+added logic
+added testing framework
+added logic and testcases
+will do later
+added testing framework
+added testing framework
+added logic and testcases
+added logic and testcases
+added testing framework
+Initial commit
+added formatting and spaces
+cleaned redundant stuffs
+added logic for NaN case
+added logic and is passing
+changed comment of tests
+added function to check whether matrices are valid or not
+added formating to message
+added testcases
+added testing framework
+Initial commit
+added lines differentiating parts of code
+don't need flat
+changed to satisfy 80 character limit
+changed names
+changed name of product
+wrote logic for pairs
+wrote logic for remove duplicates
+wrote logic for running total
+wrote all starts with a vowel
+wrote logic for are all length same, changed a fn to a genuine name
+wrote logic for sum of squares of Odd
+wrote logic for are all lists even
+wrote logic for longest word containing E
+wrote logic for product of Positives
+added logic for lists with positive numbers
+wrote logic for allLastChars
+added testing framework
+Initial commit
+instructions much clear, aligned in middle
+removed emoji for ladder, it's not completed
+cleared code
+matching colors for ladders and snakes
+replace color emojis with number emojis
+changed players to colors
+changed things
+merged two files
+added user names
+modified here and there
+cleaned code
+multiple players added and added messages
+added dice roll animation
+added symbols for dice
+logic for the game
+first commit
+added a new to do thing
+changed name of error code
+handled errors through error code rather than directly through strings
+changed withCommands to findCommand
+passing command map through main function, changed approaches here n there
+handled echo where each strings were joined without spaces
+mapped each name to their respective functions
+changed name currentDirectory to currentPath
+added cd function and added that to command list
+added cd function
+changed shell to launchshell
+changed names of variables and functions
+added exectue and add functions
+added validCommand to check validity of command
+added runCommand to run a command
+renamed shell to loki
+modularized path into an variable
+added the while loop
+created shell.js and README.md files
+added a to do list
+add, sub, mul is added
+added new learnings
+table not working, learning about new way to declare function
+created README file and wrote a learning
+added testing framework
+created calculator file
+Create enigma.js
+added stars
+added animation and modularized it
+first commit
+Merge pull request #2 from fadedblack/himasai
+
+something
+something
+Merge pull request #1 from fadedblack/himasai
+
+commented function
+commented function
+Update labyrinth.js
+changed something and now its broken
+arguments changed, created boxes for messages
+uncommneted bomb logic
+added all logics
+added Loading screen
+merged all together
+abstracted borders
+merged both files
+restored changes
+first commit
+added files
+added fisher yates shuffle
+changed table from let to a const
+refactored getBorder inputs as an array
+changed testing function from range to add
+reorganized testing section
+removed redundant logic in getLongestLength
+improved performance by not repeatedly calling getBorder
+renamed size to maxColumnWidth
+removed unused function addData
+refactored addData1 to a closure function
+modified old function declaration to new function declartion
+structed testing and removed one argument from testRange
+removed redundant function printTable
+removed unused function test
+refactored testAllRange function to take inputs in a list
+added files
+added files
+first commit
+added files
+added files
+added files
+added sorty by frequency function
+added sorting by attributes function
+added sort booleans function
+added sort string as number function
+added sort by duplicate function
+added sort by sum function
+added sorting by last character fucntion
+added shuffle function
+rename dateSort to sortDatesChronologically
+added date sorting function
+added sorting mixed data types function
+added sorting objects function
+added absolute sort function
+added case insensitive sort function
+added reverse alphabetical sort function
+added alphabetical sort function
+added descending sort function
+added ascending sort function
+added files
+added files
+reusing file for another file
+checking git repo
+added files
+renamed two variables with same name
+Adds reduce
+Adds filter
+Adds map
+total commits per day, avg is 10.4
+months converted to its numeric equivalent
+remove added quotes and comma
+add function to convert date from alphabet to numeric equivalent
+add logic to convert stampdates to DD-MM-YYYY Time format
+rename file and remove day from data
+added files
